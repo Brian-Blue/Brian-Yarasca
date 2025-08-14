@@ -6,7 +6,7 @@ public class Arrays {
         do{
             System.out.println("╔════════════════════════════╗");
             System.out.println("║    !!! BIENVENIDO !!!      ║");
-            System.out.println("║   CONVERSOR DE MONEDAS Y   ║");
+            System.out.println("║ CONVERSOR DE MONEDAS (S/)  ║");
             System.out.println("║    TABLA DE MULTIPLICAR    ║");
             System.out.println("╚════════════════════════════╝");
             System.out.println("Ingrese su opcion \n1. Conversor de Monedas (S/) \n2. Tabla de Multiplicar");

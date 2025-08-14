@@ -1,0 +1,2 @@
+public class ArraysExample2 {
+}
